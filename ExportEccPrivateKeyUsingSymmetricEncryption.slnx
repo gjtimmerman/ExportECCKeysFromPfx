@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ExportEccPrivateKeyUsingSymmetricEncryption/ExportEccPrivateKeyUsingSymmetricEncryption.vcxproj" Id="babcd425-ad25-4bf4-a4e8-0742313f9bf5" />
+</Solution>
